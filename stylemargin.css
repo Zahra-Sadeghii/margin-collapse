@@ -1,0 +1,17 @@
+#box1{
+    border: 5px solid black;
+    font-size: 22px;
+    background-color: blueviolet;
+    margin-bottom: 5px;  
+    grid: 5px;
+    flex: auto;
+}
+#box2{
+    border: 5px solid black;
+    font-size: 22px;
+    background-color: rgb(7, 132, 148);
+    margin-top: 50px;
+    grid: 5px;
+    flex: auto;
+}
+
